@@ -10,6 +10,7 @@
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  * Domain Path: /languages
  * Text Domain: rs-lms
+ * Required Plugins: CMB2, WooCommerce 
  */
 
 // If this file is called directly, abort.
