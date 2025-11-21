@@ -144,5 +144,3 @@ RS LMS is licensed under the GNU General Public License v2.0 or later (GPL-2.0-o
 ## Credits
 - Author: Riadujjaman Shanto
 - Special thanks to plugin users and community testers
-
-If you need a customized README with branding, screenshots, or additional sections (developer examples, sample data, or installation scripts), specify which parts to expand.
